@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying Python and  java script<br>I  am from india<br>I am currently in class 11th<br>Thanks for  visiting my profile<br>please leave a star to my repos
+I am currently studying Python and  java script<br>I  am from india<br>I am currently in class 12th<br>Thanks for  visiting my profile<br>please leave a star to my repos
 
 
 ## 🌐 Socials:
