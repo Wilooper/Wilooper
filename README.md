@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hello world
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Shaurya+%F0%9F%91%8B;A+Student+%26+A+Dev;Python+%26+Enthusiast)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Wilooper&style=flat-square&color=00C2FF" alt="profile views"/>
+
+</div>
+
 
 
 ## 🌐 Socials:
