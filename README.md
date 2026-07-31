@@ -19,6 +19,11 @@
 ![](https://streak-stats.demolab.com/?user=Wilooper&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Wilooper&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wilooper&bg_color=0D1117&color=00FFAA&line=00FFAA&point=ffffff&area=true&hide_border=true"/>
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Wilooper&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
