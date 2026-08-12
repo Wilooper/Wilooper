@@ -23,10 +23,6 @@
 </p>
 
 
-<div align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=wilooper&theme=dark&hide_border=true&background=0D1117&ring=00FFAA&fire=00FFAA&currStreakLabel=00FFAA"/>
-</div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
