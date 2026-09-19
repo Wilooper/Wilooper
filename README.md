@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am student.<br>i love to make things to solve problem or provide a alternative of a service<br>Love  Math, Music ,Coding and Coffee<br>
+i am student.<br>Love  Math, Music ,Coding and Coffee<br>
 
 
 ## 🌐 Socials:
